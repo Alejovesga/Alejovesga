@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alejovesga
-- 👀 I’m interested in Web develop
-- 🌱 I’m currently learning php, Angular, React and laravel
-- 💞️ I’m looking to collaborate on web projects
+- 👀 I’m interested in python and data
+- 🌱 I’m currently learning python, spark and hue
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me alejovesga25@gmail.com
 
 <!---
