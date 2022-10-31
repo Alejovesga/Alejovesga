@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alejovesga
 - 👀 I’m interested in python and data
-- 🌱 I’m currently learning python, spark and hue
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me alejovesga25@gmail.com
 
