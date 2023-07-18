@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alejovesga
-- 👀 I’m interested in python and data
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Nextjs
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me alejovesga25@gmail.com
 
 <!---
